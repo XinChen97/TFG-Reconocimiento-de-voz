@@ -163,7 +163,7 @@ def read_labels(filename):
 
 
 def read_commands(filename):
-  # commands should consist of a label, a command and a confidence.
+  # commands should consist of a label and a command.
   f = open(filename, "r")
   commands = {}
   lines = f.readlines()
