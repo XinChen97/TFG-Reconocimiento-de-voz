@@ -1,9 +1,9 @@
-switch_on,Encendiendo television
-switch_off,Apagando television
-volume_up,Subiendo volumen televisión
-volume_down,Bajando volumen televisión
-mute,Ensordeciendo volumen
-unmute,Desensordeciendo volumen
+switch_on,Encendiendo luces
+switch_off,Apagando luces
+volume_up,Subiendo volumen altavoz
+volume_down,Bajando volumen altavoz
+mute,Ensordeciendo volumen altavoz
+unmute,Desensordeciendo volumen altavoz
 open_window,Abriendo ventana
 close_window,Cerrando ventana
 start_task,Comenzando limpieza aspiradora
